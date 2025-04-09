@@ -1,0 +1,42 @@
+date,train_number,train_direction,station_name,station_order,scheduled_arrival_time,scheduled_departure_time,stop_time,actual_arrival_time,actual_departure_time,arrival_delay,departure_delay,wind,weather,temperature,major_holiday
+2019-10-09,G1,down,Beijingnan Railway Station,1,09:00:00,09:00:00,----,09:00:00,09:00:00,0,0,light winds from the S,sunny,22,False
+2019-10-09,G1,down,Jinanxi Railway Station,2,10:22:00,10:24:00,2,10:21:00,10:23:00,-1,-1,light winds from the S,light rain,22,False
+2019-10-09,G1,down,Nanjingnan Railway Station,3,12:24:00,12:26:00,2,12:24:00,12:27:00,0,1,light winds from the SE,cloudy,24,False
+2019-10-09,G1,down,Shanghaihongqiao Railway Station,4,13:28:00,13:28:00,----,13:24:00,13:24:00,-4,0,light winds from the E,cloudy,24,False
+2019-10-10,G1,down,Beijingnan Railway Station,1,09:00:00,09:00:00,----,09:00:00,09:00:00,0,0,light winds from the E,cloudy,21,False
+2019-10-10,G1,down,Jinanxi Railway Station,2,10:22:00,10:24:00,2,10:21:00,10:23:00,-1,-1,light winds from the N,light rain,20,False
+2019-10-10,G1,down,Nanjingnan Railway Station,3,12:24:00,12:26:00,2,12:24:00,12:27:00,0,1,light winds from the S,cloudy,27,False
+2019-10-10,G1,down,Shanghaihongqiao Railway Station,4,13:28:00,13:28:00,----,13:24:00,13:24:00,-4,0,light winds from the SE,sunny,27,False
+2019-10-11,G1,down,Beijingnan Railway Station,1,09:00:00,09:00:00,----,09:00:00,09:00:00,0,0,light winds from the E,cloudy,18,False
+2019-10-11,G1,down,Jinanxi Railway Station,2,10:22:00,10:24:00,2,10:21:00,10:22:00,-1,-2,light winds from the NE,overcast,21,False
+2019-10-11,G1,down,Nanjingnan Railway Station,3,12:24:00,12:26:00,2,12:22:00,12:24:00,-2,-2,light winds from the NW,overcast,24,False
+2019-10-11,G1,down,Shanghaihongqiao Railway Station,4,13:28:00,13:28:00,----,13:25:00,13:25:00,-3,0,light winds from the NW,light rain,28,False
+2019-10-12,G1,down,Beijingnan Railway Station,1,09:00:00,09:00:00,----,09:00:00,09:00:00,0,0,light winds from the E,overcast,18,False
+2019-10-12,G1,down,Jinanxi Railway Station,2,10:22:00,10:24:00,2,10:23:00,10:24:00,1,0,light winds from the NE,cloudy,23,False
+2019-10-12,G1,down,Nanjingnan Railway Station,3,12:24:00,12:26:00,2,12:22:00,12:25:00,-2,-1,light winds from the N,overcast,23,False
+2019-10-12,G1,down,Shanghaihongqiao Railway Station,4,13:28:00,13:28:00,----,13:26:00,13:26:00,-2,0,gentle breeze from the N,cloudy,26,False
+2019-10-13,G1,down,Beijingnan Railway Station,1,09:00:00,09:00:00,----,09:00:00,09:00:00,0,0,light winds from the N,light rain,13,False
+2019-10-13,G1,down,Jinanxi Railway Station,2,10:22:00,10:24:00,2,10:20:00,10:23:00,-2,-1,gentle breeze from the NE,light rain,23,False
+2019-10-13,G1,down,Nanjingnan Railway Station,3,12:24:00,12:26:00,2,12:23:00,12:26:00,-1,0,light winds from the NE,cloudy,25,False
+2019-10-13,G1,down,Shanghaihongqiao Railway Station,4,13:28:00,13:28:00,----,13:26:00,13:26:00,-2,0,light winds from the NE,overcast,25,False
+2019-10-14,G1,down,Beijingnan Railway Station,1,09:00:00,09:00:00,----,09:00:00,09:00:00,0,0,gentle breeze from the N,sunny,15,False
+2019-10-14,G1,down,Jinanxi Railway Station,2,10:22:00,10:24:00,2,10:22:00,10:24:00,0,0,moderate breeze from the NE,cloudy,16,False
+2019-10-14,G1,down,Nanjingnan Railway Station,3,12:24:00,12:26:00,2,12:26:00,12:28:00,2,2,moderate breeze from the NE,overcast,22,False
+2019-10-14,G1,down,Shanghaihongqiao Railway Station,4,13:28:00,13:28:00,----,13:26:00,13:26:00,-2,0,moderate breeze from the NE,light rain,25,False
+2019-10-15,G1,down,Beijingnan Railway Station,1,09:00:00,09:00:00,----,09:00:00,09:00:00,0,0,light winds from the SW,sunny,17,False
+2019-10-15,G1,down,Jinanxi Railway Station,2,10:22:00,10:24:00,2,10:21:00,10:23:00,-1,-1,light winds from the N,sunny,16,False
+2019-10-15,G1,down,Nanjingnan Railway Station,3,12:24:00,12:26:00,2,12:22:00,12:25:00,-2,-1,light winds from the NE,sunny,19,False
+2019-10-15,G1,down,Shanghaihongqiao Railway Station,4,13:28:00,13:28:00,----,13:25:00,13:25:00,-3,0,moderate breeze from the NE,overcast,21,False
+2019-10-16,G1,down,Beijingnan Railway Station,1,09:00:00,09:00:00,----,08:58:00,08:58:00,0,-2,light winds from the SW,overcast,15,False
+2019-10-16,G1,down,Jinanxi Railway Station,2,10:22:00,10:24:00,2,10:20:00,10:22:00,-2,-2,light winds from the S,overcast,15,False
+2019-10-16,G1,down,Nanjingnan Railway Station,3,12:24:00,12:26:00,2,12:23:00,12:25:00,-1,-1,light winds from the E,cloudy,19,False
+2019-10-16,G1,down,Shanghaihongqiao Railway Station,4,13:28:00,13:28:00,----,13:26:00,13:26:00,-2,0,gentle breeze from the N,overcast,22,False
+2019-10-17,G1,down,Beijingnan Railway Station,1,09:00:00,09:00:00,----,08:59:00,08:59:00,0,-1,light winds from the N,light rain,14,False
+2019-10-17,G1,down,Jinanxi Railway Station,2,10:22:00,10:24:00,2,10:20:00,10:23:00,-2,-1,light winds from the S,cloudy,18,False
+2019-10-17,G1,down,Nanjingnan Railway Station,3,12:24:00,12:26:00,2,12:24:00,12:26:00,0,0,light winds from the N,cloudy,22,False
+2019-10-17,G1,down,Shanghaihongqiao Railway Station,4,13:28:00,13:28:00,----,13:23:00,13:23:00,-5,0,gentle breeze from the N,overcast,22,False
+2019-10-19,G1,down,Beijingnan Railway Station,1,09:00:00,09:00:00,----,08:59:00,08:59:00,0,-1,light winds from the S,cloudy,20,False
+2019-11-28,G10,up,Nanjingnan Railway Station,2,10:59:00,11:01:00,2,11:00:00,11:01:00,1,0,light winds from the N,cloudy,10,True
+2019-11-28,G10,up,Jinanxi Railway Station,3,12:59:00,13:01:00,2,12:59:00,13:01:00,0,0,light winds from the E,sunny,6,True
+2019-11-28,G10,up,Beijingnan Railway Station,4,14:28:00,14:28:00,----,14:28:00,14:28:00,0,0,light winds from the SW,sunny,3,True
+2019-11-29,G10,up,Shanghaihongqiao Railway Station,1,10:00:00,10:00:00,----,09:59:00,09:59:00,0,-1,gentle breeze from the NE,overcast,13,False
